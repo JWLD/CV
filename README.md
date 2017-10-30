@@ -10,7 +10,7 @@ I'm passionate about teaching and learning, and am always keen to work with the 
 I've recently been working on a range of projects using the following technologies:
 
 | Languages | Frameworks / Libraries | Databases | Testing | Tools
-| -
+| --- | --- | --- | --- | --- |
 | JavaScript | Express.js | PostgreSQL | Tape | Git
 | Node.js | Hapi.js | MongoDB | QUnit | Webpack
 | HTML5 | React | | Travis CI | Babel
