@@ -21,10 +21,15 @@ I've recently been working on a range of projects using the following technologi
 
 #### PROJECTS
 
-- [Soundtracks App (WIP)](https://github.com/JWLD/soundtracks-react) | _ | *Design & Development*
-- [Nazareth Events](https://github.com/foundersandcoders/nazareth-events) | _ | *Design & QA*
-- [NazBay](https://github.com/JWLD/NazBay) | _ | *Design & Development*
+**Post-Boot Camp**
+- [Soundtracks App (WIP)](https://github.com/JWLD/soundtracks-react) | View and listen to soundtracks | *Design & Development*
 - [Michael Davies Films](https://github.com/JWLD/michaeldaviesfilms) | Film director portfolio | *Design & Development*
-- [Completionism](https://github.com/JWLD/completionism) | _ | *Design & Development*
+
+**Founders & Coders**
+- [Nazareth Events](https://github.com/foundersandcoders/nazareth-events) | View and update list of upcoming events in Nazareth | *Design & QA*
+- [NazBay](https://github.com/JWLD/NazBay) | Platform for Nazarene artisans to promote and sell their crafts | *Design & Development*
+
+**Pre-Boot Camp**
+- [Completionism](https://github.com/JWLD/completionism) | Track collections in World of Warcraft | *Design & Development*
 - [Bennett Films](https://github.com/JWLD/bennettfilms) | Animation portfolio | *Design & Development*
 - [Figs And Limes](https://github.com/JWLD/figsandlimes) | Wedding band agency | *Design & Development*
