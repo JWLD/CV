@@ -41,9 +41,23 @@ I've recently been working on a range of projects using the following technologi
 
 <img width="240" src="https://github.com/JWLD/CV/blob/master/assets/fac.png" alt="Founders and Coders">
 
+**16 Week Web Development Boot Camp, Nazareth (Feb - Jun 2017)**
+- Blah
+
+**Mentoring (Jun-Oct 2017)**
+- Blah
+
+<img width="240" src="https://github.com/JWLD/CV/blob/master/assets/uwe.png" alt="University of the West of England">
+
+**Disability Support Worker (2014-2017)**
+- Blah
+
 ***
 
 ### EDUCATION
+
+**University of Warwick (2011-2014)**
+- BA in Classical Civilisation, 1st Class
 
 ***
 
