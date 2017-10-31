@@ -5,12 +5,12 @@ I'm passionate about teaching and learning, and am always keen to work with the 
 
 ***
 
-#### SKILLS
+### SKILLS
 
 I've recently been working on a range of projects using the following technologies:
 
 | Languages | Frameworks / Libraries | Databases | Testing | Tools
-| -
+| --- | --- | --- | --- | --- |
 | JavaScript | Express.js | PostgreSQL | Tape | Git
 | Node.js | Hapi.js | MongoDB | QUnit | Webpack
 | HTML5 | React | | Travis CI | Babel
@@ -19,7 +19,7 @@ I've recently been working on a range of projects using the following technologi
 
 ***
 
-#### PROJECTS
+### PROJECTS
 
 **Post-Boot Camp**
 - [Soundtracks App (WIP)](https://github.com/JWLD/soundtracks-react) | View and listen to soundtracks, built in React | *Design & Development*
@@ -37,23 +37,23 @@ I've recently been working on a range of projects using the following technologi
 
 ***
 
-#### EXPERIENCE
+### EXPERIENCE
 
 <img width="240" src="https://github.com/JWLD/CV/blob/master/assets/fac.png" alt="Founders and Coders">
 
 ***
 
-#### EDUCATION
+### EDUCATION
 
 ***
 
-#### LINKS
+### LINKS
 
 [LinkedIn](https://www.linkedin.com/in/jack-davies-5a4b0811b/) | [Codepen](https://codepen.io/JWLD91/) | [Codewars](https://www.codewars.com/users/JWLD)
 
 ***
 
-#### INTERESTS
+### INTERESTS
 - Learning
 - Climbing
 - Movies
