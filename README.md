@@ -39,6 +39,8 @@ I've recently been working on a range of projects using the following technologi
 
 #### EXPERIENCE
 
+<img width="240" src="https://github.com/JWLD/CV/blob/master/assets/fac.png" alt="Founders and Coders">
+
 ***
 
 #### EDUCATION
