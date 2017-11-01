@@ -18,7 +18,7 @@ I've recently been working on a range of projects using the following technologi
 | | Handlebars | | | Heroku
 | | | | | Amazon S3
 
-Along with the above, I also have some experience writing in C, C# and PHP, having completed Harvard's online [CS50 course](https://cs50.harvard.edu/).
+I also have some experience writing in C, C# and PHP, having completed Harvard's online [CS50 course](https://cs50.harvard.edu/).
 
 ***
 
