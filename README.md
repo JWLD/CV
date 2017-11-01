@@ -53,8 +53,8 @@ I've recently been working on a range of projects using the following technologi
 <img width="240" src="https://github.com/JWLD/CV/blob/master/assets/uwe.png" alt="University of the West of England">
 
 **Disability Support Worker (2014-2017)**
-- I worked as a note take for the disability services department.
-- This gave me the opportunity to work with a wide variety of students in a supporting role, and granted me a valuable insight into a multitude of subjects and disciplines.
+- I worked as a note taker for the disability services department, which allowed me the opportunity to work with a wide variety of students in a supporting role.
+- The experience also granted me a valuable insight into a multitude of different subjects and disciplines.
 
 ***
 
