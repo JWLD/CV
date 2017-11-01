@@ -15,8 +15,8 @@ I've recently been working on a range of projects using the following technologi
 | Node.js | Hapi.js | MongoDB | QUnit | Webpack
 | HTML5 | React | | Travis CI | Babel
 | CSS3 | Redux | | Istanbul | Sass
-| | jQuery | | | Heroku
-
+| | Handlebars | | | Heroku
+| | | | | Amazon S3
 ***
 
 ### PROJECTS
@@ -42,15 +42,19 @@ I've recently been working on a range of projects using the following technologi
 <img width="240" src="https://github.com/JWLD/CV/blob/master/assets/fac.png" alt="Founders and Coders">
 
 **16 Week Web Development Boot Camp, Nazareth (Feb - Jun 2017)**
-- Blah
+- I participated in the very first Nazareth cohort of the hugely successful Founders & Coders web development boot camp.
+- Halfway through I wrote a [medium article](https://medium.com/founders-coders/founders-and-coders-nazareth-life-as-an-international-student-c2be76fb161d) on the experience from the perspective of an international student.
+- Along with the skills outlined above, I learned **test driven development**, **agile methodologies** and **pair programming**.
+- During the programme I was also involved in volunteering at weekly coding meetups and other coding-related projects in and around Nazareth.
 
-**Mentoring (Jun-Oct 2017)**
-- Blah
+**Mentoring (Jun - Oct 2017)**
+- I stayed on in Nazareth to mentor the second cohort, which involved running workshops, helping out in class and facilitating the general administration of the course.
 
 <img width="240" src="https://github.com/JWLD/CV/blob/master/assets/uwe.png" alt="University of the West of England">
 
 **Disability Support Worker (2014-2017)**
-- Blah
+- I worked as a note take for the disability services department.
+- This gave me the opportunity to work with a wide variety of students in a supporting role, and granted me a valuable insight into a multitude of subjects and disciplines.
 
 ***
 
@@ -68,8 +72,8 @@ I've recently been working on a range of projects using the following technologi
 ***
 
 ### INTERESTS
-- Learning
+- Game development
+- Writing music
 - Climbing
 - Movies
-- Music
 - Gaming
