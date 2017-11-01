@@ -17,6 +17,9 @@ I've recently been working on a range of projects using the following technologi
 | CSS3 | Redux | | Istanbul | Sass
 | | Handlebars | | | Heroku
 | | | | | Amazon S3
+
+Along with the above, I also have some experience writing in C, C# and PHP, having completed Harvard's online [CS50 course](https://cs50.harvard.edu/).
+
 ***
 
 ### PROJECTS
