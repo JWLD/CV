@@ -77,6 +77,7 @@ I also have some experience writing in C, C# and PHP, having completed Harvard's
 ### INTERESTS
 - Game development
 - Writing music
+- Cello
 - Climbing
 - Movies
 - Gaming
