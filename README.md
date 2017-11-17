@@ -13,10 +13,9 @@ I've recently been working on a range of projects using the following technologi
 | --- | --- | --- | --- | --- |
 | JavaScript | Express.js | PostgreSQL | Tape | Git
 | Node.js | Hapi.js | MongoDB | QUnit | Webpack
-| HTML5 | React | | Travis CI | Babel
-| CSS3 | Redux | | Istanbul | Sass
-| | Handlebars | | | Heroku
-| | | | | Amazon S3
+| HTML5 | React | | Travis CI | Sass
+| CSS3 | Redux | | Istanbul | Heroku
+| | Handlebars | | | Amazon S3
 
 I also have some experience writing in C, C# and PHP, having completed Harvard's [CS50 course](https://cs50.harvard.edu/) online.
 
