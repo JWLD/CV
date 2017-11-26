@@ -24,7 +24,8 @@ I also have some experience writing in C, C# and PHP, having completed Harvard's
 ### PROJECTS
 
 **Post-Boot Camp**
-- [Soundtracks App (WIP)](https://github.com/JWLD/soundtracks-react) | View and listen to soundtracks, built in React | *Design & Development*
+- [Soundtracks App](https://github.com/JWLD/soundtracks-react) | View and listen to soundtracks, built in React | *Design & Development*
+- [Soundtracks Data](https://github.com/JWLD/data-react) | Data entry interface for the soundtracks app | *Design & Development*
 - [Michael Davies Films](https://github.com/JWLD/michaeldaviesfilms) | Film director portfolio | *Design & Development*
 
 **Founders & Coders**
