@@ -71,7 +71,7 @@ I also have some experience writing in C, C# and PHP, having completed Harvard's
 
 ### LINKS
 
-[LinkedIn](https://www.linkedin.com/in/jack-davies-5a4b0811b/) | [Codepen](https://codepen.io/JWLD91/) | [Codewars](https://www.codewars.com/users/JWLD)
+[LinkedIn](https://www.linkedin.com/in/jack-davies-5a4b0811b/) | [Codepen](https://codepen.io/JWLD) | [Codewars](https://www.codewars.com/users/JWLD)
 
 ***
 
