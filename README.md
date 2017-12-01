@@ -43,6 +43,13 @@ I also have some experience writing in C, C# and PHP, having completed Harvard's
 
 ### EXPERIENCE
 
+<img width="240" src="https://github.com/JWLD/CV/blob/master/assets/iinu.png" alt="iinu">
+
+**Front-End Developer (Nov 2017 - Present)**
+- I currently work part-time for this startup, creating react components for their kitchen assistant app.
+- I created a weighing modal component, which interacts with scale hardware via an API and renders live output to the user. The reading can then be inserted into a redux form for submission.
+- I'm currently in the process of refactoring their CSS base to make it more readable and maintainable, and to ensure a pixel-perfect design.
+
 <img width="240" src="https://github.com/JWLD/CV/blob/master/assets/fac.png" alt="Founders and Coders">
 
 **16 Week Web Development Boot Camp, Nazareth (Feb - Jun 2017)**
