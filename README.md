@@ -1,7 +1,7 @@
 # Jack Davies CV
-I am a full-stack JavaScript developer and recent Founders & Coders Nazareth graduate who loves to write code that is readable, robust, elegant and scalable. I love good design that makes the user experience as intuitive and rewarding as possible.
+I'm a full-stack JavaScript developer and recent Founders & Coders Nazareth graduate. I love to write code that is readable, robust, elegant and scalable, and have a passion for pixel-perfect design that makes the user experience as intuitive and rewarding as possible.
 
-I'm passionate about teaching and learning, and am always keen to work with the latest technologies. I'm looking for a role where I can develop my skills and work with and learn from other like-minded people.
+I love to teach and learn from others, and am always keen to work with the latest technologies. I'm looking for a role where I can develop my skills and work with and learn from other like-minded people.
 
 ***
 
@@ -26,7 +26,7 @@ I also have some experience writing in C, C# and PHP, having completed Harvard's
 **Post-Boot Camp**
 - [Soundtracks App](https://github.com/JWLD/soundtracks-react) | View and listen to soundtracks, built in React | *Design & Development*
 - [Dots & Boxes](https://github.com/JWLD/dots-and-boxes) | Dots and boxes game, made in HTML5 canvas | *Design & Development*
-- [Soundtracks Data](https://github.com/JWLD/data-react) | Data entry interface for the soundtracks app | *Design & Development*
+- [Soundtracks Data](https://github.com/JWLD/data-react) | Data entry interface for the soundtracks app, built in React | *Design & Development*
 - [Michael Davies Films](https://github.com/JWLD/michaeldaviesfilms) | Film director portfolio | *Design & Development*
 
 **Founders & Coders**
