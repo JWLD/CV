@@ -46,14 +46,13 @@ I also have some experience writing in C, C# and PHP, having completed Harvard's
 <img width="240" src="https://github.com/JWLD/CV/blob/master/assets/fac.png" alt="Founders and Coders">
 
 **16 Week Web Development Boot Camp, Nazareth (Feb - Jun 2017)**
-- I participated in the very first Nazareth cohort of the hugely successful Founders & Coders web development boot camp.
-- Halfway through I wrote a [medium article](https://medium.com/founders-coders/founders-and-coders-nazareth-life-as-an-international-student-c2be76fb161d) on the experience from the perspective of an international student.
+- I participated in the very first Nazareth cohort of the hugely successful Founders & Coders web development boot camp. Halfway through I wrote a [medium article](https://medium.com/founders-coders/founders-and-coders-nazareth-life-as-an-international-student-c2be76fb161d) on the experience from the perspective of an international student.
 - Along with the skills outlined above, I learned and applied **test driven development**, **agile methodologies** and **pair programming**.
 - During the programme I was also involved in volunteering at weekly coding meetups and other coding-related projects in and around Nazareth.
 
 **Mentoring (Jun - Oct 2017)**
 - I stayed on in Nazareth to mentor the second cohort, which involved running workshops, helping out in class and facilitating the general administration of the course.
-- During this time I also acted as QA on one of the recent graduate projects, [Nazareth Events](https://github.com/foundersandcoders/nazareth-events)
+- During this time I also acted as QA on one of the recent graduate projects, [Nazareth Events](https://github.com/foundersandcoders/nazareth-events).
 
 <img width="240" src="https://github.com/JWLD/CV/blob/master/assets/uwe.png" alt="University of the West of England">
 
