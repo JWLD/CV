@@ -1,7 +1,7 @@
 # Jack Davies CV
-I'm a full-stack JavaScript developer and recent Founders & Coders Nazareth graduate. I love to write code that is readable, robust, elegant and scalable, and have a passion for pixel-perfect design that makes the user experience as intuitive and rewarding as possible.
+I'm a full-stack JavaScript developer and recent Founders & Coders Nazareth graduate. I like to write code that is readable, robust, elegant and scalable, and always aim for pixel-perfect design that makes the user experience as intuitive and rewarding as possible.
 
-I love to teach and learn from others, and am always keen to work with the latest technologies. I'm looking for a role where I can develop my skills and work with and learn from other like-minded people.
+I enjoy teaching and learning from others, and am always keen to work with the latest technologies. I'm looking for a role where I can develop my skills and work with and learn from other like-minded people.
 
 ***
 
